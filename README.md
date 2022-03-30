@@ -68,7 +68,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### HTML
 
-- [ ] **Uso de HTML semántico**
+- [x] **Uso de HTML semántico**
 
   <details><summary>Links</summary><p>
 
@@ -78,7 +78,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### CSS
 
-- [ ] **Uso de selectores de CSS**
+- [x] **Uso de selectores de CSS**
 
   <details><summary>Links</summary><p>
 
@@ -86,7 +86,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [CSS Selectors - MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)
 </p></details>
 
-- [ ] **Modelo de caja (box model): borde, margen, padding**
+- [x] **Modelo de caja (box model): borde, margen, padding**
 
   <details><summary>Links</summary><p>
 
@@ -99,7 +99,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### Web APIs
 
-- [ ] **Uso de selectores del DOM**
+- [x] **Uso de selectores del DOM**
 
   <details><summary>Links</summary><p>
 
@@ -132,14 +132,14 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### JavaScript
 
-- [ ] **Tipos de datos primitivos**
+- [x] **Tipos de datos primitivos**
 
   <details><summary>Links</summary><p>
 
   * [Valores primitivos - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures#valores_primitivos)
 </p></details>
 
-- [ ] **Strings (cadenas de caracteres)**
+- [x] **Strings (cadenas de caracteres)**
 
   <details><summary>Links</summary><p>
 
@@ -147,7 +147,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
   * [String — Cadena de caracteres - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String)
 </p></details>
 
-- [ ] **Variables (declaración, asignación, ámbito)**
+- [x] **Variables (declaración, asignación, ámbito)**
 
   <details><summary>Links</summary><p>
 
@@ -202,7 +202,7 @@ Reflexiona y luego marca los objetivos que has llegado a entender y aplicar en t
 
 ### Control de Versiones (Git y GitHub)
 
-- [ ] **Git: Instalación y configuración**
+- [x] **Git: Instalación y configuración**
 
 - [ ] **Git: Control de versiones con git (init, clone, add, commit, status, push, pull, remote)**
 
@@ -244,10 +244,9 @@ Usa este alfabeto simple (solamente mayúsculas y sin ñ):
 En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
 para definir el producto final a nivel de experiencia y de interfaz.
 
-* Quiénes son los principales usuarios de producto.
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.
-
+* Quiénes son los principales usuarios de producto: Los principales usuarios de CYPHER son adultos que utilizan  la plataforma WHATSAPP y que no desean que algunos de sus mensajes sean leidos por otras personas que violen los bloqueos de su teléfono y abran su WhatsApp.
+* Cuáles son los objetivos de estos usuarios en relación con tu producto: tener una herramienta útil, de fácil uso que les permite codificar mensajes.
+* Cómo crees que el producto que estás creando está resolviendo sus problemas: Con el uso de CYPHER se sienten libres de enviar mensajes cuyo contenido podría comprometerlos de diferentes maneras en diversos ámbitos .
 ### Interfaz de usuario (UI)
 
 La interfaz debe permitir al usuario:
@@ -258,6 +257,39 @@ La interfaz debe permitir al usuario:
 * Ver el resultado del mensaje cifrado.
 * Insertar un mensaje (texto) a descifrar.
 * Ver el resultado del mensaje descifrado.
+
+ACERCA DE CYPHER:
+  Explicar cómo descargar, instalar y ejecutar la aplicación
+  así como una introducción a la aplicación:
+
+  Cypher es una aplicación web dinámica,se adapta a cualquier dispositivo, no es necesario descargarla se accede a ella a partir de un navegador,si tienes un navegador instalado en el dispositivo podras acceder a ella (Firefox,Safari,Chrome...) es necesario estar conectad@ para acceder a ella.
+  :
+  Así como una introducción a la aplicación, su funcionalidad:
+
+  Decisiones de diseño que tomaron:
+  PROTOTIPOS DE CLASE BAJA:
+  <img src="C:\Users\RAFA\Documents\PTBAJA1.jpg">
+  <img src="C:\Users\RAFA\Documents\PTBAJA2.jpg">
+  <img src="C:\Users\RAFA\Documents\PTBAJA3.jpg">
+  <img src="C:\Users\RAFA\Documents\PTBAJA4.jpg">
+  <img src="C:\Users\RAFA\Documents\PTBAJA5.jpg">
+
+  PROTOTIPOS DE CLASE MEDIA:
+
+  <img src="C:\Users\RAFA\Pictures\MAQUETACION HTML PROTOTIPO MEDIO.png">
+
+  PROTOTIPO DE CLASE ALTA:
+  URL"https://www.figma.com/file/UOrPy75Vck8xa3fNhhT8nD/CYPHER-AW?node-id=0%3A1"
+
+DESICIONES DE DISEÑO:
+PRINCIPIOS BÁSICOS DEL DISEÑO:
+*BALANCE
+*CONTRASTE
+*ALINEACION
+*REPETICON
+*ESPACIO
+*PROXIMIDAD
+¿SE SIGUIERON LOS PRINCIPIOS BASICOS DEL DISEÑO VISUAL? SI, CON CIERTOS DESACIERTOS QUE MEJORARÉ EN LA VERSIÓN FINAL
 
 ### Scripts / Archivos
 

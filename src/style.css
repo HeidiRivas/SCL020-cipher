@@ -1,0 +1,72 @@
+.wow {
+  width: 100px;
+}
+
+#contenedor{
+  width: 1200px;
+  height: 1000;
+  background: #CCFFFF
+  }
+#cabecera{
+  height: 15%;
+  background: #33CC99 ;
+  border-radius: 1em;
+  margin: 1em;
+  font-family: 'algerian' ;
+  font-size: 2em ;
+  color: #006666;
+  text-align: center;
+}
+#nav{
+  height: 15%;
+  background: #99FFCC ;
+  border-radius: 1em;
+  margin-top: : 5em;
+  margin-left: 3em;
+  margin-right: 3em;
+  font-family: 'arial';
+  font-size: 1em ;
+  padding-top:30px;
+  padding-left:20px;
+}
+#contenido{
+  height: 600px;
+  border-radius: 1em;
+  margin: 1em;
+  margin-top: 0em;
+  padding-top: 60px;
+  background-image:url("https://www.redseguridad.com/wp-content/uploads/sites/2/2020/09/candado-privacidad-seguridad-internet-900x600.jpg");
+}
+
+#textarea1{
+  float:right;
+  margin-right: 5em;
+  margin-top: 1em;
+  resize:none;
+  border-radius: 13px;
+  color: color:#EFFFFD;
+
+}
+#textarea2{
+  margin-left: 5em;
+  float:left;
+  resize:none;
+  margin-top: 1em;
+  border-radius: 13px;
+  padding: inherit;
+}
+
+#botones{
+margin-bottom:20em;
+margin-left: 15em;
+}
+
+#desplegable{
+margin-top: 10em;
+font-family: 'algerian' ;
+font-size: 1em ;
+color: #000;
+margin-left:5em;
+}
+
+#footer{
